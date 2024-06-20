@@ -1,5 +1,7 @@
 import React from 'react';
 
-export const Loading = () => {
-  return <div>Loading...</div>;
+const LoadingDetailIssuePage = () => {
+  return <div>LoadingDetailIssuePage</div>;
 };
+
+export default LoadingDetailIssuePage;
